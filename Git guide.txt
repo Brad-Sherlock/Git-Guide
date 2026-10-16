@@ -1,0 +1,8 @@
+Git Guide: Brad Sherlock
+Git init
+[-b <branch-name> | --initial-branch=<branch-name>]
+Git init creates an empty git repository or reinitializes an existing one. Branch name is where the name of the branch is inputted. If no name is given name will default to master/main.
+
+
+
+
