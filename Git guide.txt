@@ -4,5 +4,10 @@ Git init
 Git init creates an empty git repository or reinitializes an existing one. Branch name is where the name of the branch is inputted. If no name is given name will default to master/main.
 
 
+Git add
+git add “File Name” (Exactly as saved)
+Adds content from new or changed files to the index (or staging area). This is used to prepare for next commit.
+Wrong
 
+Right
 
