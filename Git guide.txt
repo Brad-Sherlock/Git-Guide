@@ -11,3 +11,6 @@ Wrong
 
 Right
 
+Git status
+Shows the working tree status.
+
