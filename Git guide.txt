@@ -34,8 +34,12 @@ git config user.name “Name”/git config user.email “email”/git config--global cor
 git config is used to get and set global options or repositories. Can be used to set default name and email for commits and can be used to set windows notepad as default editor.
 
 Git remote 
-
+Git remote –v/Git remote add <name> <url>/Git remote rm <name>
 Manages set of repositories who’s branches you track. Can also be used to list, create and destroy remote repositories.
+
+Git branch
+Git branch new_branch_name / Git branch –a/-l/-r / Git ls-remote
+Git branch lists, creates or delete branches. This includes creating new branches in local repositories, listing all branches in repositories and listing branches on remotes (including unknowns).
 
 
 
