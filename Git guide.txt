@@ -33,6 +33,10 @@ Git config
 git config user.name “Name”/git config user.email “email”/git config--global core.editor notepad
 git config is used to get and set global options or repositories. Can be used to set default name and email for commits and can be used to set windows notepad as default editor.
 
+Git remote 
+
+Manages set of repositories who’s branches you track. Can also be used to list, create and destroy remote repositories.
+
 
 
 
