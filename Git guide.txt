@@ -25,6 +25,9 @@ Git commit
 git commit [-a | (all) / git commit -m “name” / git commit -am “name” (all and name)
 Creates new commit containing current contents of the index and the given log message showing the changes. New commit is a direct child of HEAD, usually the tip of current branch, and the branch is updated to point to it.
 
+Git push
+Git push -u origin main (first) / git push (all after first)
+Updates one or more branches, nodes, etc in remote repository with information from local repository. Sends all necessary data that isn’t already on remote. Must use git push origin -u main for first push.
 
 
 
