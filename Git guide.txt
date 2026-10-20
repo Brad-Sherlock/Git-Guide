@@ -12,5 +12,22 @@ Wrong
 Right
 
 Git status
-Shows the working tree status.
+Shows the working tree/working directory status. E.g. added files or modified files in working area.
+
+Git log
+git log [<options>]
+Lists all commits reachable by following the parent links from the given commit(s). Excludes commits reachable from the one(s) given with a ^ in front of them. Lists the items from most recent to oldest.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
