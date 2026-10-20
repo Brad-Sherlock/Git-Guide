@@ -29,6 +29,10 @@ Git push
 Git push -u origin main (first) / git push (all after first)
 Updates one or more branches, nodes, etc in remote repository with information from local repository. Sends all necessary data that isn’t already on remote. Must use git push origin -u main for first push.
 
+Git config
+git config user.name “Name”/git config user.email “email”/git config--global core.editor notepad
+git config is used to get and set global options or repositories. Can be used to set default name and email for commits and can be used to set windows notepad as default editor.
+
 
 
 
