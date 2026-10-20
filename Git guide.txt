@@ -41,6 +41,8 @@ Git branch
 Git branch new_branch_name / Git branch –a/-l/-r / Git ls-remote
 Git branch lists, creates or delete branches. This includes creating new branches in local repositories, listing all branches in repositories and listing branches on remotes (including unknowns).
 
+Git merge
+Git merge joins 2 or more development histories together by incorporating changes from the named commits into the current branch.
 
 
 
